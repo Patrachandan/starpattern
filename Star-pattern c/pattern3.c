@@ -1,4 +1,5 @@
 #include<stdio.h>
+// star pattern
 void main()
 {
  int i,j,rows;
